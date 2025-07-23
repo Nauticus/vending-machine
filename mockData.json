@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": "D001",
+      "name": "Cola",
+      "type": "drink",
+      "price": 1.50,
+      "amount": 10
+    },
+    {
+      "id": "D002",
+      "name": "Lemonade",
+      "type": "drink",
+      "price": 1.25,
+      "amount": 8
+    },
+    {
+      "id": "D003",
+      "name": "Water",
+      "type": "drink",
+      "price": 1.00,
+      "amount": 12
+    },
+    {
+      "id": "D004",
+      "name": "Orange Juice",
+      "type": "drink",
+      "price": 2.00,
+      "amount": 6
+    },
+    {
+      "id": "D005",
+      "name": "Iced Tea",
+      "type": "drink",
+      "price": 1.75,
+      "amount": 0
+    },
+    {
+      "id": "D006",
+      "name": "Energy Drink",
+      "type": "drink",
+      "price": 2.50,
+      "amount": 5
+    },
+    {
+      "id": "S001",
+      "name": "Chocolate Bar",
+      "type": "snack",
+      "price": 1.25,
+      "amount": 15
+    },
+    {
+      "id": "S002",
+      "name": "Potato Chips",
+      "type": "snack",
+      "price": 1.00,
+      "amount": 12
+    },
+    {
+      "id": "S003",
+      "name": "Pretzels",
+      "type": "snack",
+      "price": 0.75,
+      "amount": 10
+    },
+    {
+      "id": "S004",
+      "name": "Gummy Bears",
+      "type": "snack",
+      "price": 1.50,
+      "amount": 8
+    },
+    {
+      "id": "S005",
+      "name": "Granola Bar",
+      "type": "snack",
+      "price": 1.25,
+      "amount": 9
+    },
+    {
+      "id": "S006",
+      "name": "Peanuts",
+      "type": "snack",
+      "price": 1.00,
+      "amount": 11
+    },
+    {
+      "id": "S007",
+      "name": "Candy Bar",
+      "type": "snack",
+      "price": 1.25,
+      "amount": 7
+    },
+    {
+      "id": "S008",
+      "name": "Soda Crackers",
+      "type": "snack",
+      "price": 0.90,
+      "amount": 10
+    }
+  ]
+}
